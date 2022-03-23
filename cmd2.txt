@@ -1,0 +1,5 @@
+insert 2 DNA AGG
+insert 4 RNA ACCU
+insert 3 DNA GGCA
+insert 6 RNA AUUA
+print

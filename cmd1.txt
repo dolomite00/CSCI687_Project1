@@ -1,0 +1,2 @@
+insert 2 DNA AGG
+print
